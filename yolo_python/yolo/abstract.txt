@@ -1,0 +1,9 @@
+Developing a Municipal Solid Waste (MSW) plan can be challenging. A prerequisite for efficient MSW plan is the accurate measurement of the mass distribution per waste stream. 
+Even though sampling and current models provide accurate mass measurements for long term estimation, they cannot be used for real-time predictions. Machine vision and machine learning,
+ which are more and more extensively used for waste management, could provide the tools needed for continuous mass measurements. This study aims to determine how machine learning and computer 
+vision can characterise the mass and the volume of waste in real-time. Two algorithms have been developed for this purpose. The first one used top views of objects captured with a depth camera 
+to identify the main geometric properties. The 3D shape is then estimated, and, finally, related to the mass with the density. The second algorithm employed a neural network to detect brands on 
+waste. The first algorithm has been able to measure the mass of newspapers, magazines and plastic PET bottles with an accuracy of  99.2\%, 86.5\% and 99.1\%, respectively. The second one 
+identified the brand on waste produced by Coca-cola, Heineken and Pepsi with a 93\% accuracy. The results indicate that machine learning is suitable for real-time mass measurements on waste. 
+The brand can be used with the volume to identify products which would increase the granularity of the waste characterisation and provide even more information to improve mass measurement.
+This technology may provide to policymakers the information needed to develop MSW plan with a much more refined spatial and temporal scale.
